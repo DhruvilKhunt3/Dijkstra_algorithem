@@ -1,5 +1,5 @@
 The dijkstra using in google map
-<lr>
+<br>
 this algo help use to find shortest distance from current location or node
-<lr>
+<br>
 program only contains looping and condition
